@@ -12,9 +12,9 @@
 
 # 🔗 • Project Link
 
-> GitHub Repository:
-> 👉 https://github.com/minimalharry/MinePlus
+> [👉 GitHub Repository](https://github.com/minimalharry/MinePlus)
 
+> [🌐Latest Release](https://github.com/minimalharry/MinePlus/releases)
 ---
 
 # ✅ • Getting Started
