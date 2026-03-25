@@ -10,11 +10,22 @@
 
 ---
 
-# 🔗 • Project Link
+# 🔗 • Links
 
 > [👉 GitHub Repository](https://github.com/minimalharry/MinePlus)
 
 > [🌐Latest Release](https://github.com/minimalharry/MinePlus/releases)
+
+<p align="center">
+  <a href="https://youtube.com/@minimalharry">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
+  </a>
+   
+  <a href="https://discord.gg/SweHq7Ke6y">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord">
+  </a>
+</p>
+
 ---
 
 # ✅ • Getting Started
