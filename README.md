@@ -10,7 +10,7 @@
 
 ---
 
-# 🔗 • Project लिंक
+# 🔗 • Project Link
 
 > GitHub Repository:
 > 👉 https://github.com/minimalharry/MinePlus
