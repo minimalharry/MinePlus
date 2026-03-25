@@ -1,0 +1,17 @@
+{
+    "name":"Mineplus",
+    "version":"1.0.0",
+    "description":"The best bot for Minecraft servers developed from end to end!",
+    
+    "license":"MIT",
+    "author":"Minimal.Harry <minimalharrydev@gmail.com>",
+    
+    "main":"Index.js",
+    "type":"commonjs",
+
+    "dependencies":{
+       "discord.js":"^14.11.0",
+       "axios":"^1.4.0",
+       "mysql2": "^3.10.0"
+    }
+}

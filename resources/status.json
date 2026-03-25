@@ -1,0 +1,11 @@
+{
+    "status": "online",
+
+    "presences": [
+        { 
+            "type": "Playing in MinePulse", 
+            "description": "play.minepulse.fun" ,
+            "interval": 5000
+        }
+    ]
+}

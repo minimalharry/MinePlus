@@ -1,0 +1,22 @@
+{
+    "ticket": {
+        "title": "MinePlus Tickets",
+        "description": "> 👋 • Hello! Welcome to the ticket support of the server. To create a ticket, simply react with the 🎫 emoji below. **Remember** to follow the following rules when creating a ticket:\n\n```- Be clear and concise in describing your problem!\n- Avoid creating multiple tickets for the same issue.\n- Do not share personal or sensitive information.\n- Respect the support team.```\n> ⭐ • Once a ticket is created, a member of our team will contact you to assist you as soon as possible.",
+        "banner": "https://media.discordapp.net/attachments/1476563577010655379/1480029959765495898/Gemini_Generated_Image_ao6rqrao6rqrao6r.png?ex=69c1f750&is=69c0a5d0&hm=31400c2a0003a6dbbb5d33f9bd4d514d5c640e95d097a980e353ab516ce92407&=&format=webp&quality=lossless&width=1094&height=614",
+        
+        "button": {
+            "label": "Open Ticket",
+            "emoji": "🎫"
+        },
+
+        "created": {
+            "title": "MinePlus Support",
+            "description": "> 👋 • Hello! Welcome to the server support! Please clarify your problem/question so that our team can assist you!",
+
+            "button": {
+                "label": "Close Ticket",
+                "emoji": "🔒"
+            }
+        }
+    }
+}
